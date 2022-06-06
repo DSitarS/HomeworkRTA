@@ -1,0 +1,6 @@
+numpy==1.16.4
+Flask==1.0.2
+scikit_learn==0.20.3
+Flask-restful==0.3.6
+joblib == 1.1.0
+pandas==1.1.5
